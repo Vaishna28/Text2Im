@@ -26,5 +26,5 @@ setup(
         "regex",
         "numpy",
     ],
-    author="OpenAI",
+    author="Vaishna28",
 )
